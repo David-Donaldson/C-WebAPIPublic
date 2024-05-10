@@ -1,4 +1,4 @@
-# C# Website API
+# C# Web API
 
 This repository contains the C# API used for my Portfolio Website. The API serves as the backend infrastructure for managing various functionalities of the website, including user authentication, data retrieval, and content management.
 
