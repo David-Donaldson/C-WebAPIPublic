@@ -1,0 +1,121 @@
+{
+    "No lights on the Modem": [
+        "Check the power adapter and confirm if it is plugged into the power outlet.",
+        "Make sure the power is turned on for the device.",
+        "Try connecting another device to the power outlet (to see if outlet itself is working).",
+        "Check to ensure the coaxial connection is secured at the rear of the device."
+    ],
+    "No power": [
+        "Check the power adapter and confirm if it is plugged into the power outlet.",
+        "Make sure the power is turned on for the device.",
+        "Try connecting another device to the power outlet (to see if outlet itself is working).",
+        "Check to ensure the coaxial connection is secured at the rear of the device."
+    ],
+    "No DS Light on Modem": [
+        "Check the power adapter and confirm if it is plugged into the power outlet.",
+        "Make sure the power is turned on for the device.",
+        "Try connecting another device to the power outlet (to see if outlet itself is working).",
+        "Check to ensure the coaxial connection is secured at the rear of the device."
+    ],
+    "Poor Wi-Fi Range": [
+        "Check the modem’s location for obstructions that are physical or electronic such as microwaves and toaster ovens.",
+        "Ensure the modem is in an elevated position that is at least a foot off the ground.",
+        "Ensure there is clear line of sight between wireless range extenders.",
+        "Try connecting another personal device (laptop, cellphone, or tablet).",
+        "Turn off devices connected to Wi-Fi and not in use.",
+        "Try browsing using other webpages.",
+        "Try browsing using a different device.",
+        "Close some of your apps you are running on the device.",
+        "Verify that your network is not open to the public. If so, make your network private.",
+        "Check if you are connected to the network at home.",
+        "Check connected device settings such as airplane mode or hotspot.",
+        "Ensure you are using the correct password and check for caps and lowercase.",
+        "Ensure you are connecting to the correct network address.",
+        "Check for damage on the outlet and device.",
+        "Restart the modem."
+    ],
+    "Slow Speed": [
+        "Check the modem’s location for obstructions that are physical or electronic such as microwaves and toaster ovens.",
+        "Ensure the modem is in an elevated position that is at least a foot off the ground.",
+        "Ensure there is clear line of sight between wireless range extenders.",
+        "Try connecting another personal device (laptop, cellphone, or tablet).",
+        "Turn off devices connected to Wi-Fi and not in use.",
+        "Try browsing using other webpages.",
+        "Try browsing using a different device.",
+        "Close some of your apps you are running on the device.",
+        "Verify that your network is not open to the public. If so, make your network private.",
+        "Check if you are connected to the network at home.",
+        "Check connected device settings such as airplane mode or hotspot.",
+        "Ensure you are using the correct password and check for caps and lowercase.",
+        "Ensure you are connecting to the correct network address.",
+        "Check for damage on the outlet and device.",
+        "Restart the modem."
+    ],
+    "Unable to Browse - Home Internet": [
+        "Check the modem’s location for obstructions that are physical or electronic such as microwaves and toaster ovens.",
+        "Ensure the modem is in an elevated position that is at least a foot off the ground.",
+        "Ensure there is clear line of sight between wireless range extenders.",
+        "Try connecting another personal device (laptop, cellphone, or tablet).",
+        "Turn off devices connected to Wi-Fi and not in use.",
+        "Try browsing using other webpages.",
+        "Try browsing using a different device.",
+        "Close some of your apps you are running on the device.",
+        "Verify that your network is not open to the public. If so, make your network private.",
+        "Check if you are connected to the network at home.",
+        "Check connected device settings such as airplane mode or hotspot.",
+        "Ensure you are using the correct password and check for caps and lowercase.",
+        "Ensure you are connecting to the correct network address.",
+        "Check for damage on the outlet and device.",
+        "Restart the modem."
+    ],
+    "Unable to Connect to Wi-Fi": [
+        "Check the modem’s location for obstructions that are physical or electronic such as microwaves and toaster ovens.",
+        "Ensure the modem is in an elevated position that is at least a foot off the ground.",
+        "Ensure there is clear line of sight between wireless range extenders.",
+        "Try connecting another personal device (laptop, cellphone, or tablet).",
+        "Turn off devices connected to Wi-Fi and not in use.",
+        "Try browsing using other webpages.",
+        "Try browsing using a different device.",
+        "Close some of your apps you are running on the device.",
+        "Verify that your network is not open to the public. If so, make your network private.",
+        "Check if you are connected to the network at home.",
+        "Check connected device settings such as airplane mode or hotspot.",
+        "Ensure you are using the correct password and check for caps and lowercase.",
+        "Ensure you are connecting to the correct network address.",
+        "Check for damage on the outlet and device.",
+        "Restart the modem."
+    ],
+    "Intermittent Connection": [
+        "Check the modem’s location for obstructions that are physical or electronic such as microwaves and toaster ovens.",
+        "Ensure the modem is in an elevated position that is at least a foot off the ground.",
+        "Ensure there is clear line of sight between wireless range extenders.",
+        "Try connecting another personal device (laptop, cellphone, or tablet).",
+        "Turn off devices connected to Wi-Fi and not in use.",
+        "Try browsing using other webpages.",
+        "Try browsing using a different device.",
+        "Close some of your apps you are running on the device.",
+        "Verify that your network is not open to the public. If so, make your network private.",
+        "Check if you are connected to the network at home.",
+        "Check connected device settings such as airplane mode or hotspot.",
+        "Ensure you are using the correct password and check for caps and lowercase.",
+        "Ensure you are connecting to the correct network address.",
+        "Check for damage on the outlet and device.",
+        "Restart the modem."
+    ],
+    "General Data Tips":[
+        {
+            "0": [
+                "Ensure you devices such as laptops are not kept in a hibernated state.",
+                "Ensure there are no obstruction or obstacles that can interfere with the signal.",
+                "Do not place modem/ router on beds or soft surfaces.",
+                "Elevate modem and or routers – “the higher the better”.",
+                "Disconnect unnecessary users connected to the network.",
+                "High bandwidth consumption applications are to be disconnected/ stopped when not in use.",
+                "Avoid torrenting."
+            ],
+            "1": [
+                "Having strong Wi-Fi connectivity throughout your home is important for you to enjoy uninterrupted streaming and gaming sessions, ensuring you are in tune with all the happening on social media or simply just browsing the web. A Wi-Fi range extender or Booster allows for the optimal digital experience."
+            ]
+        }
+    ]
+}

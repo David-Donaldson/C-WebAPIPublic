@@ -1,0 +1,45 @@
+{
+    "No Dial Tone" : [
+        "Check that any cords are properly connected on both ends to the wall and phone",
+        "If using a cordless phone, check if it is charged",
+        "If the issue persists, try using a shorter cord between the wall jack and phone",
+        "Reset the modem by pressing and holding down the reset button on the device for 20-30 seconds before releasing",
+        "Try connecting to the secondary telephone port to the rear of the modem"
+    ],
+    "Cannot Hear": [
+        "Check that any cords are properly connected on both ends to the wall and phone",
+        "If using a cordless phone, check if it is charged",
+        "Restart the phone by unplugging the base from the power outlet and plug it back in after 30 seconds",
+        "Try placing a test call from the device",
+        "If the issue persists, try using a shorter cord between the wall jack and phone"
+    ],
+    "Static or Irregular Noises on the Line": [
+        "Check that any cords are properly connected on both ends to the wall and phone/ phone base",
+        "If using a cordless phone, check if it is charged",
+        "If using a corded phone, check for cracks and peeling of the plastic coating",
+        "Check that the modem not located next to, beneath or on top of any other electronic devices or appliances",
+        "If the issue persists, try using a shorter cord between the wall jack and phone"
+    ],
+    "Beeping on the line": [
+        "Check your settings to see if the phone is set to “pulse”. If so, switch your settings to “tone”.",
+        "If the issue persists, try unplugging the phone/ phone base from modem/wall outlet for 30 seconds before plugging it back in",
+        "If available, try connecting a different phone.",
+        "If the issue is resolved the first device is faulty and needs to be switched."
+
+    ],
+    "Unable to Receive Calls - Home Phone": [
+        "Check your account to see if your bill is up to date. If not, your service is likely disconnected. Clear your balance and reconnect your account to resolve the issue.",
+        "Verify that you can make calls by completing a test call",
+        "If your account is up to date, and you can make but not receive calls, technical support is needed"
+    ],
+    "Unable to Make Calls - Home Phone":[
+        "Check your account to see if your bill is up to date. If not, your service is likely disconnected. Clear your balance and reconnect your account to resolve the issue.",
+        "Verify that you can receive calls by dialing your landline through a different device.",
+        "If your account is up to date, and you can receive but not make calls, technical support is needed"
+    ],
+    "Caller ID not Displayed":[
+        "Check to ensure you are subscribed to the caller ID feature",
+        "Check that any cords are properly connected on both ends to the wall and phone/ phone base",
+        "Check to ensure you have not activated the Call Forwarding feature"
+    ]
+}

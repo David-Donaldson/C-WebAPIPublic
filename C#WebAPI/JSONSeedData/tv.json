@@ -1,0 +1,72 @@
+{
+    "No Audio": [
+        "Check HDMI cord and replace it if damaged.",
+        "Check to make sure power cord is plugged into a working outlet.",
+        "Change your power adapter (if available).",
+        "Check to ensure the cable connections (HDMI, RCA cable) between the set-top box and TV are properly connected.",
+        "Check coax cable at the rear of the device and ensure it is securely attached.",
+        "Check volume on the TV device itself and using the remote to make sure it is not turned down or on mute.",
+        "Ensure the batteries are secured properly and working.",
+        "Perform a remote test! Point your cellular phone towards the top of the remote >Press any of the buttons to see if there is a light showing on the phone (this will check the infrared sensor).",
+        "Check if the issue persists on other channels, inputs, secondary remotes, or on a secondary set-top box (if available) to verify if it is a general issue.",
+        "Complete a power cycle (power off then turn on)."
+    ],
+    "Set-Top Box Not Turning on": [
+        "Check to make sure power cord is plugged into a working outlet.",
+        "Change your power adapter (if available).",
+        "Check to ensure the sensor is not blocked and that you are standing directly in front of the set-top box when using the remote.",
+        "If the issue persists try using secondary remotes, or on a secondary set-top box (if available) to verify if it is a general issue."
+    ],
+    "Grainy, Pixelated": [
+        "Check HDMI cord and replace it if damaged.",
+        "Check to ensure the cable connections (HDMI, RCA cable) between the set-top box and TV are properly connected.",
+        "Check coax cable at the rear of the device and ensure it is securely attached.",
+        "Check if the issue persists on other channels to verify if it is a general issue."
+    ],
+    "Blank Screen": [
+        "Check HDMI cord and replace it if damaged.",
+        "Check to make sure power cord is plugged into a working outlet.",
+        "Change your power adapter (if available).",
+        "Check to ensure the cable connections (HDMI, RCA cable) between the set-top box and TV are properly connected.",
+        "Check coax cable at the rear of the device and ensure it is securely attached.",
+        "Complete a channel scan. Press Menu > scroll to across to configuration > scroll down to system settings > select channel installation > select manual channel installation > enter 555 start frequency / and 765 end frequency > Press start > once completed Press Save.",
+        "Check if the issue persists on other channels, inputs, secondary remotes, or on a secondary set-top box (if available) to verify if it is a general issue.",
+        "Complete a power cycle (power off then turn on)."
+    ],
+    "No Signal or Low Signal": [
+        "Check HDMI cord and replace it if damaged.",
+        "Check to make sure power cord is plugged into a working outlet.",
+        "Change your power adapter (if available).",
+        "Check to ensure the cable connections (HDMI, RCA cable) between the set-top box and TV are properly connected.",
+        "Check coax cable at the rear of the device and ensure it is securely attached.",
+        "Check volume on the TV device itself and using the remote to make sure it is not turned down or on mute.",
+        "Ensure the batteries are secured properly and working.",
+        "Perform a remote test! Point your cellular phone towards the top of the remote >Press any of the buttons to see if there is a light showing on the phone (this will check the infrared sensor).",
+        "Check if the issue persists on other channels, inputs, secondary remotes, or on a secondary set-top box (if available) to verify if it is a general issue.",
+        "Complete a power cycle (power off then turn on)."
+    ],
+    "Missing Channel(s)": [
+        "Check to see if the channel is included in your subscription package.",
+        "If channel related, complete a channel scan. Press Menu > scroll to across to configuration > scroll down to system settings > select channel installation > select manual channel installation > enter 555 start frequency / and 765 end frequency > Press start > once completed Press Save.",
+        "If the issue persists try using secondary remotes, or on a secondary set-top box (if available) to verify if it is a general issue.",
+        "Complete a power cycle (power off then turn on)."
+    ],
+    "Channels not Loading or Populating": [
+        "Press the menu button on the remote ---> Go to Favorites option. There are three options available HDTV, TV and Radio ---> scroll and select TV access the guide there. All channels including SD and HD channels should now be populated.",
+        "If the issue persists, complete a power cycle (power off then turn on)."
+    ],
+    "Channels Guide Grayed Out": [
+        "Check if set top has an IP address via the Network Settings.",
+        "Ensure that an Ethernet cable is not plugged in from modem to set top box as well.",
+        "If no IP Address is present, complete a reset of the modem.",
+        "Once the modem comes online completed a menu restart from the set top box. This is done by going to Menu>Configuration>System Settings>restart device. Once the set top box reboots an IP address and channel guide should be now be visible."
+    ],
+    "No Access '0'": [
+        "Check HDMI cord and replace it if damaged.",
+        "Check to ensure the cable connections (HDMI, RCA cable) between the set-top box and TV are properly connected.",
+        "Check if set top has an IP address via the Network Settings.",
+        "Ensure that an Ethernet cable is not plugged in from modem to set top box as well.",
+        "If no IP Address is present, complete a reset of the modem.",
+        "Once the modem comes online completed a menu restart from the set top box. This is done by going to Menu>Configuration>System Settings>restart device. Once the set top box reboots an IP address and channel guide should be now be visible."
+    ]
+  }
